@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://youngmensep.github.io/ugnews/sitemap.xml
+Sitemap: https://bryanph1988.github.io/titiwmantul/sitemap.xml
